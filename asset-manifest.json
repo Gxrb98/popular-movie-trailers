@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/popular-movie-trailers/static/css/main.ae95ebf0.css",
+    "main.js": "/popular-movie-trailers/static/js/main.5d4fd56a.js",
+    "index.html": "/popular-movie-trailers/index.html",
+    "main.ae95ebf0.css.map": "/popular-movie-trailers/static/css/main.ae95ebf0.css.map",
+    "main.5d4fd56a.js.map": "/popular-movie-trailers/static/js/main.5d4fd56a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae95ebf0.css",
+    "static/js/main.5d4fd56a.js"
+  ]
+}
