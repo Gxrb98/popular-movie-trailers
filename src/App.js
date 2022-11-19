@@ -79,7 +79,7 @@ function App() {
 
   return (
     <div >
-      <h2 className="text-center mt-5 mb-5">Poular Movie trailers</h2>
+      <h2 className="text-center mt-5 mb-5">Popular Movie trailers</h2>
 
       {/* el buscador */}
       <form className="container mb-4" onSubmit={searchMovies}>
